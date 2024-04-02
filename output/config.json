@@ -1,0 +1,4 @@
+{
+  "connectUrl": "mysql+pymysql://[login]:[password]@localhost:3306/[database]",
+  "basePath": "[path to dir]"
+}
